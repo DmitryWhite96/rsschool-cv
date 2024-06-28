@@ -6,9 +6,7 @@
 
 **Locatoin**: [Belarus, Bobruisk] https://maps.app.goo.gl/uob8fNhXohkVRPLv7
 **Phone**: +375-(33)342-65-49 
-
 **Email**: www.dimasik61@gmail.com
-
 **GitHub**: [@DmitryWhite96]https://github.com/DmitryWhite96
 
 ## Briefly about myself
@@ -17,7 +15,7 @@
 
 * My goal is to study the features and different directions in the field of programming in order to change my occupation.
 
-## skills
+## Skills
 
 - Git, GitHub
 - Visual studio code
