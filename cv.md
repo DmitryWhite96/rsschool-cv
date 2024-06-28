@@ -26,6 +26,7 @@
 ## Education 
 
 - **College** State educational institution Mechanics and Technology College
+- **Courses** JS/FE Pre-School 2024Q2
 
 ## Languages
 
