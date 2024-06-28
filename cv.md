@@ -4,13 +4,12 @@
 
 ## Contact information
 
-**Locatoin**: [Belarus, Bobruisk](https://maps.app.goo.gl/pv3N1ctbY9LXp5KX9)
-
+**Locatoin**: [Belarus, Bobruisk] https://maps.app.goo.gl/uob8fNhXohkVRPLv7
 **Phone**: +375-(33)342-65-49 
 
 **Email**: www.dimasik61@gmail.com
 
-**GitHub**: [@DmitryWhite96](https://github.com/DmitryWhite96)
+**GitHub**: [@DmitryWhite96]https://github.com/DmitryWhite96
 
 ## Briefly about myself
 
