@@ -1,6 +1,4 @@
-# Dmitry Bely
-
-## Junior Front-end Developer
+# Dmitry Beliy
 
 ## Contact information
 
