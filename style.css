@@ -1,0 +1,17 @@
+.baskervville-sc-regular {
+   font-family: "Baskervville SC", serif;
+   font-weight: 400;
+   font-style: normal;
+ }
+ * {
+   box-sizing: border-box;
+ }
+ body {
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+ }
+ .container {
+   max-width: 1440px;
+   margin: 0 auto;
+ }
